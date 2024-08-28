@@ -270,9 +270,11 @@
 
 .resources_logo-zone {
     margin: 80px;
+    padding: 0;
     display: flex;
     justify-content: center;
     width: 1100px;
+    list-style: none;
 }
 
 .resources_link {
@@ -285,3 +287,68 @@
 }
 
 /* section resources end */
+
+/* footer start */
+.footer {
+    margin: 0;
+    min-height: 350px;
+    background-color: #1f1f1f;
+}
+
+.columns {
+    margin: 0 auto;
+    padding: 60px 0 40px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 711px;
+    color:#ffffff;
+}
+
+.column {
+
+}
+
+.content_copyright {
+    position: relative;
+}
+
+.place_footer {
+    width: 228px;
+    height: 32px;
+}
+
+.author {
+    margin: 18px 0 18px;
+    position: absolute;
+    bottom: 0;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.content_info {
+
+}
+
+.column-heading {
+    margin: 0 0 20px;
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.column-links {
+    margin: 0 0 10px;
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: normal;
+    
+}
+
+.social-icon {
+    width: 16px;
+    height: 16px;
+}
+
+/* footer end */
