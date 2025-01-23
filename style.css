@@ -118,33 +118,33 @@
 /* section description end */
 
 /* section techniques start */
-.techniques {
+/* .techniques {
     margin: 100px auto 0;
     width: 80%;
     display: flex;
     align-items: center;
     flex-direction: column;
-}
+} */
 
-.section-title {
+/* .section-title {
     margin: 0 0 20px 0;
     width: 60%;
     text-align: center;
     line-height: 1.15;
     font-size: 60px;
     font-weight: 600;
-}
+} */
 
-.section-subtitle {
+/* .section-subtitle {
     margin: 0;
     width: 60%;
     text-align: center;
     line-height: 34px;
     font-size: 24px;
     font-weight: normal;
-}
+} */
 
-.cards {
+/* .cards {
     margin-bottom: 0;
     width: 920px;
     padding: 0;
@@ -152,9 +152,9 @@
     flex-direction: row;
     flex-wrap: wrap;
     list-style: none;
-}
+} */
 
-.cards__item {
+/* .cards__item {
     margin: 0 100px 0 0;
     max-width: 240px;
 }
@@ -162,64 +162,65 @@
 .cards__item:nth-child(3n) {
     margin: 0;
     max-width: 240px;
-}
+} */
 
-.cards__image {
+/* .cards__image {
     margin: 60px 40px 43px;
     width: 160px;
     height: 160px;
     border-radius: 50%;
-}
+} */
 
-.cards__title {
+/* .cards__title {
     margin: 0 0 16px 0;
     text-align: center;
     line-height: 1.15;
     font-size: 24px;
     font-weight: 600;
-}
+} */
 
-.cards__description {
+/* .cards__description {
     margin: 0;
     text-align: center;
     line-height: 23px;
     font-size: 18px;
     font-weight: normal;
-}
+} */
 
 /* section techniques end */
 
 /* section video start */
-.video {
+/* .video {
     margin: 100px auto 0;
     display: flex;
     flex-direction: column;
     align-items: center;
-}
+} */
 
-.videos {
+/* .videos {
     display: flex;
-}
+} */
 
-.video_iframe {
+/* .video_iframe {
     margin: 60px 20px 0 0;
 }
 
 .video_iframe:last-of-type {
     margin: 60px 0 0 0;
-} 
+}  */
 
 /* section video end */
 
 /* section digits start */
 
-.digits {
+/* .digits {
     margin: 100px auto 100px;
     display: flex;
     align-items: center;
     flex-direction: column;
-}
-.table {
+} */
+
+/* .table {
     margin: 0;
     width: 1100px;
     padding: 0;
@@ -228,28 +229,28 @@
     flex-wrap: wrap;
     justify-content: space-between;
     list-style: none;
-}
+} */
 
-.table__cell {
+/* .table__cell {
     margin-top: 60px;
     width: 250px;
-}
+} */
 
-.table__heading {
+/* .table__heading {
     margin: 0 0 20px 0;
     text-align: left;
     line-height: 1.15;
     font-size: 24px;
     font-weight: 600;
-}
+} */
 
-.table__text {
+/* .table__text {
     margin: 0;
     text-align: left;
     line-height: 1.2;
     font-size: 18px;
     font-weight: normal;
-}
+} */
 /* section digits end */
 
 /* section kaufman start */
@@ -297,10 +298,6 @@
     justify-content: center;
     width: 1100px;
     list-style: none;
-}
-
-.resources_link {
-
 }
 
 .resources_logo {
